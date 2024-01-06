@@ -6,4 +6,4 @@
 
 💞️ Busco colaborar en proyectos open source relacionados con la educación y el aprendizaje automático. Estoy interesado en contribuir a herramientas que faciliten el acceso a la educación y promuevan el conocimiento.
 
-📫 Cómo contactarme: Puedes enviarme un mensaje directo aquí en GitHub. 
+📫 Cómo contactarme: Puedes enviarme un mensaje directo aquí en GitHub.  
